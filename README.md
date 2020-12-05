@@ -1,12 +1,12 @@
-### MSBD5001-Kaggle-Competition
+## MSBD5001-Kaggle-Competition
 The is the readme.md file for the Kaggle in-class competition of MSBD 5001 course
+
 `Author: YUAN Yan Zhe`
 #### Programming Languages Used & Required Packages Needed
+##### Languages
 - Python: 3.7.4
+##### packages
 - Jupyter Notebook
-  
-    
-- datetime
 - pandas: 1.1.4
 - sklearn: 0.23.2
 - xgboost: 1.2.1
