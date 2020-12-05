@@ -19,4 +19,7 @@ The is the readme.md file for the Kaggle in-class competition of MSBD 5001 cours
 - Run the `speed_prediction_final.ipynb`
 - Get the result `xgboost_12.csv`
 
-#### Kaggle Competition
+#### Kaggle Competition Entries NOTES
+- Teamname used: `Jackbighead23`
+**Due to the upload time limit, I create another account:**
+- Other experimental results submitted in the account: `ZZZ7779` 
