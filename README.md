@@ -20,6 +20,4 @@ The is the readme.md file for the Kaggle in-class competition of MSBD 5001 cours
 - Get the result `xgboost_12.csv`
 
 #### Kaggle Competition Entries NOTES
-- Teamname used: `Jackbighead23`
-**Due to the upload time limit, I create another account:**
-- Other experimental results submitted in the account: `ZZZ7779` 
+- **Teamname used for final submission: `Jackbighead23`. Due to the upload-time limit, I create another account: `ZZZ7779`** , and other experimental results are submitted in this account.
