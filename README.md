@@ -5,7 +5,7 @@ The is the readme.md file for the Kaggle in-class competition of MSBD 5001 cours
 #### Programming Languages Used & Required Packages Needed
 ##### Languages
 - Python: 3.7.4
-##### packages
+##### Packages
 - Jupyter Notebook
 - pandas: 1.1.4
 - sklearn: 0.23.2
