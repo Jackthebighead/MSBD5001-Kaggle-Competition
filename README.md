@@ -3,7 +3,8 @@
 
 The competition is the individual Kaggle competition of HKUST MSBD 5001 Data Analysis course, the task is a sub-project from the smart city project at **HKUST** **iSingLab** [Smart City](https://turing.ust.hk/).
 
-As a result, I ranked **Top 10%** on the leaderboard **(11/154)**.
+
+As a result, I ranked **Top 10% (11/154)** on the leaderboard.
 
 
 
