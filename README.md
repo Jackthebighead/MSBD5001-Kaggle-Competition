@@ -29,4 +29,4 @@ As a result, I ranked **Top 10% (11/154)** on the leaderboard.
 - Get the result `xgboost_submit_4.csv`
 
 ### 3. Kaggle Competition Entries NOTES
-- **Team Name used for final submission: `youngandcold`. Due to the limit of submission times, I create another account: `Jackbighead`** , and other experimental results are submitted in this account.
+- **Team Name used for final submission: `youngandcold`. Due to the limit of submission times, I create another account: `threeadayisnotok`** , and other experimental results are submitted in this account.
