@@ -1,5 +1,5 @@
 ## Kaggle Competition: Traffic Speed Prediction
-`Author: YUAN Yan Zhe`
+
 
 The competition is the individual Kaggle competition of HKUST MSBD 5001 Data Analysis course, the task is a sub-project from the smart city project at **HKUST** **iSingLab** [Smart City](https://turing.ust.hk/).
 
